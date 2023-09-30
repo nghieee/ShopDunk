@@ -1,0 +1,14 @@
+C:\Users\A\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\22DH111077_NGUYENTRUNGHIEU\HỌC KỲ 3\LTW\TH\BT_01\ShopDunk\bin\ShopDunk.dll.config
+C:\Users\A\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\22DH111077_NGUYENTRUNGHIEU\HỌC KỲ 3\LTW\TH\BT_01\ShopDunk\bin\ShopDunk.dll
+C:\Users\A\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\22DH111077_NGUYENTRUNGHIEU\HỌC KỲ 3\LTW\TH\BT_01\ShopDunk\bin\ShopDunk.pdb
+C:\Users\A\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\22DH111077_NGUYENTRUNGHIEU\HỌC KỲ 3\LTW\TH\BT_01\ShopDunk\obj\Debug\ShopDunk.csproj.AssemblyReference.cache
+C:\Users\A\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\22DH111077_NGUYENTRUNGHIEU\HỌC KỲ 3\LTW\TH\BT_01\ShopDunk\obj\Debug\ShopDunk.csproj.CoreCompileInputs.cache
+C:\Users\A\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\22DH111077_NGUYENTRUNGHIEU\HỌC KỲ 3\LTW\TH\BT_01\ShopDunk\obj\Debug\ShopDunk.dll
+C:\Users\A\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\22DH111077_NGUYENTRUNGHIEU\HỌC KỲ 3\LTW\TH\BT_01\ShopDunk\obj\Debug\ShopDunk.pdb
+C:\Users\A\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\22DH111077_NGUYENTRUNGHIEU\HỌC KỲ 3\LTW\ShopDunk\bin\ShopDunk.dll.config
+C:\Users\A\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\22DH111077_NGUYENTRUNGHIEU\HỌC KỲ 3\LTW\ShopDunk\bin\ShopDunk.dll
+C:\Users\A\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\22DH111077_NGUYENTRUNGHIEU\HỌC KỲ 3\LTW\ShopDunk\bin\ShopDunk.pdb
+C:\Users\A\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\22DH111077_NGUYENTRUNGHIEU\HỌC KỲ 3\LTW\ShopDunk\obj\Debug\ShopDunk.csproj.AssemblyReference.cache
+C:\Users\A\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\22DH111077_NGUYENTRUNGHIEU\HỌC KỲ 3\LTW\ShopDunk\obj\Debug\ShopDunk.csproj.CoreCompileInputs.cache
+C:\Users\A\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\22DH111077_NGUYENTRUNGHIEU\HỌC KỲ 3\LTW\ShopDunk\obj\Debug\ShopDunk.dll
+C:\Users\A\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\22DH111077_NGUYENTRUNGHIEU\HỌC KỲ 3\LTW\ShopDunk\obj\Debug\ShopDunk.pdb
