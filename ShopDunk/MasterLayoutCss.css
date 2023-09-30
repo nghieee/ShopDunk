@@ -369,10 +369,106 @@ html {
 
 #footer-content {
     background-color: #1d1d1f;
+    color: white;
 }
 
 #footer-content #content-upper {
     padding: 64px 0px 21px;
     display: flex;
     width: 1200px;
+    margin: auto;
+}
+
+ul {
+    list-style-type: none;
+}
+
+#footer-content #content-upper .list li {
+    font-size: 13px;
+    line-height: 28px;
+}
+
+#footer-content #content-upper .list li a {
+    color: #86868b;
+}
+
+#content-upper .title {
+    color: #d2d2d7;
+    font-size: 15px;
+    line-height: 21px;
+    font-weight: 700;
+    margin: 0 0 15px;
+}
+
+#content-upper #follow-us {
+    /*padding-bottom: 20px;
+    order: 1;
+    float: right;*/
+    width: 30% !important;
+    /*margin: 0;
+    text-align: left;
+    display: inline-block;
+    vertical-align: top;*/
+}
+
+#footer-content #header-logo {
+    display: table-cell;
+    text-align: left;
+    vertical-align: middle;
+    font-size: 0;
+    display: inline-block;
+    max-width: 100%;
+    line-height: 0;
+}
+
+#topic-block #topic-block__body {
+    text-align: justify;
+    line-height: 24px;
+    font-size: 16px;
+}
+
+#topic-block #topic-block__body p {
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    color: #D2D2D7;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+#content-upper #info {
+    color: white;
+    padding-left: 60px;
+    width: 25%;
+    margin: 0;
+    display: inline-block;
+    vertical-align: top;
+    text-align: left;
+    font-size: 14px;
+}
+
+#content-upper #customer-service,
+#content-upper #contact {
+    padding-left: 60px;
+}
+
+#content-lower {
+    padding: 20px 0px 32px 0px;
+    width: 1200px;
+    margin: auto;
+    font-size: 12px;
+}
+
+#content-lower #company-info {
+    float: left;
+    text-align: left;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+#company-info #address {
+    font-size: 13px;
+    line-height: 20px;
+    color: #515154;
 }
