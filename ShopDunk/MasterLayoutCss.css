@@ -457,6 +457,8 @@ ul {
     width: 1200px;
     margin: auto;
     font-size: 12px;
+    height: 120px;
+    border-top: 1px solid #515154;
 }
 
 #content-lower #company-info {
@@ -465,10 +467,16 @@ ul {
     display: flex;
     width: 100%;
     justify-content: space-between;
+    line-height: 32px;
 }
 
 #company-info #address {
     font-size: 13px;
     line-height: 20px;
     color: #515154;
+}
+
+#company-info img {
+    float: right;
+    width: 139px;
 }
