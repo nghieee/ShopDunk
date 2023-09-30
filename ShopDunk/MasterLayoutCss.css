@@ -1,4 +1,4 @@
-﻿* {
+* {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
@@ -30,7 +30,7 @@ html {
     max-width: 1200px;
     align-items: center;
     justify-content: space-between;
-    margin: auto;
+    margin: 0;
     padding: 0;
 }
 
@@ -120,6 +120,7 @@ html {
 /*CATEGORY-SECTION*/
 #category-list {
     margin-top: 112px;
+    /* margin-bottom: 112px; */
 }
 
 .item-list--title{
@@ -214,11 +215,110 @@ html {
     vertical-align: middle;
 }
 
-#news-líst #title {
+#news-list {
+    margin-bottom: 46px;
+}
+
+#news-list #title {
     text-align: center;
     padding-bottom: 15px;
     line-height: 45px;
 }
 
+#news-body {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    margin-bottom: 32px;
+}
+
+#news-body .new-item {
+    width: 386px;
+    margin: 0;
+    clear: both;
+    /*position: relative;*/
+    background: #FFFFFF;
+    box-shadow: 0px 1px 8px rgb(0 0 0 / 4%);
+    border-radius: 8px;
+}
+
+.new-item .new-item__picture {
+    /*position: relative;*/
+}
+
+.new-item__picture img {
+    width: 100%;
+    max-height: 218px;
+    object-fit: cover;
+    border-radius: 8px 8px 0 0;
+    background: #f7e8e8;
+    height: 176px;
+}
+
+.new-item__head .new-item__head--title {
+    padding: 25px 24px 15px 24px;
+    line-height: 24px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #1D1D1F;
+    display: inline-block;
+}
+.new-item .news-item__date {
+    background-color: #FFF;
+    font-size: 15px;
+    line-height: 24px;
+    color: #86868B;
+    margin: 0 0 24px;
+    padding: 10px 24px 0 24px;
+    font-style: normal;
+}
+
+#news-list .see-all {
+    text-align: center;
+    padding-bottom: 32px;
+}
+
+#news-list .see-all a{
+    text-decoration: unset;
+    border: 1px solid #0066CC;
+    border-radius: 8px;
+    padding: 5.5px 45px;
+    color: #0066CC;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 27px;
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+}
+
 #footer {
 }
+
+#footer #new-letter {
+    background: #F2F2F2;
+    width: 100%;
+    margin: auto;
+    padding: 50px 0px 50px 0px;
+}
+
+#new-letter #new-letter__head {
+    text-align: center;
+    font-weight: 700;
+    font-size: 24px;
+    color: #1D1D1F;
+    line-height: 36px;
+}
+
+#new-letter p {
+    text-align: center;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    text-align: center;
+    color: #515154;
+    padding: 8px 0;
+    margin: 0;
+}
+
+

@@ -12,3 +12,10 @@ C:\Users\A\OneDrive - Ho Chi Minh City University of Foreign Languages and Infor
 C:\Users\A\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\22DH111077_NGUYENTRUNGHIEU\HỌC KỲ 3\LTW\ShopDunk\obj\Debug\ShopDunk.csproj.CoreCompileInputs.cache
 C:\Users\A\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\22DH111077_NGUYENTRUNGHIEU\HỌC KỲ 3\LTW\ShopDunk\obj\Debug\ShopDunk.dll
 C:\Users\A\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\22DH111077_NGUYENTRUNGHIEU\HỌC KỲ 3\LTW\ShopDunk\obj\Debug\ShopDunk.pdb
+C:\Users\A\Documents\GitHub\ShopDunk\ShopDunk\bin\ShopDunk.dll.config
+C:\Users\A\Documents\GitHub\ShopDunk\ShopDunk\bin\ShopDunk.dll
+C:\Users\A\Documents\GitHub\ShopDunk\ShopDunk\bin\ShopDunk.pdb
+C:\Users\A\Documents\GitHub\ShopDunk\ShopDunk\obj\Debug\ShopDunk.csproj.AssemblyReference.cache
+C:\Users\A\Documents\GitHub\ShopDunk\ShopDunk\obj\Debug\ShopDunk.csproj.CoreCompileInputs.cache
+C:\Users\A\Documents\GitHub\ShopDunk\ShopDunk\obj\Debug\ShopDunk.dll
+C:\Users\A\Documents\GitHub\ShopDunk\ShopDunk\obj\Debug\ShopDunk.pdb
