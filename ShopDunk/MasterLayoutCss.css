@@ -23,6 +23,7 @@ html {
     background-color: #515154;
     position: sticky;
     top: 0px;
+    text-align: center;
 }
 
 #header__content {
@@ -36,6 +37,10 @@ html {
 
 #header__logo {
     margin: auto;
+    display: table-cell;
+    text-align: left;
+    vertical-align: middle;
+    font-size: 0;
 }
 
 #header__logo a {
@@ -53,6 +58,10 @@ html {
 
 #header__nav {
     max-width: 980px;
+    display: flex;
+    font-size: 0;
+    justify-content: space-evenly;
+    margin-bottom: 0px;
 }
 
 #header__nav li {
@@ -84,9 +93,9 @@ html {
 }
 
 #header__logo {
-    display: flex;
-    justify-content: space-evenly;
-    width: 20%;
+    /* display: flex; */
+    /* justify-content: space-evenly; */
+    /* width: 20%; */
 }
 
 #sliders {
